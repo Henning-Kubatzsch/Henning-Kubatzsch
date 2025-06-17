@@ -37,9 +37,8 @@ I enjoy learning deeply, thinking clearly, and building things that matter.
 
 ### 📫 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [GitHub](https://github.com/yourprofile)  
-- Email: `your.email@example.com`  
+- [LinkedIn](https://www.linkedin.com/in/henning-kubatzsch-632353324/)  
+- Email: `henningkb@outlook.com`  
 
 ---
 
