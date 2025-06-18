@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Henning</h1>
+<h1 align="center">👋 Hi, I'm Henning Kubatzsch</h1>
 
 <p align="center">
   <em>Machine Learning Engineer • NLP & LLMs • Education & Explainability</em>
