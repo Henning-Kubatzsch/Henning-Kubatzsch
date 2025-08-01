@@ -1,47 +1,51 @@
-<h1 align="center">👋 Hi, I'm Henning Kubatzsch</h1>
+## 👋 Hi, I'm Henning Kubatzsch
 
-<p align="center">
-  <em>Machine Learning Engineer • NLP & LLMs • Education & Explainability</em>
-</p>
+**Machine Learning Engineer • NLP & LLMs • Education & Explainability**
 
 ---
 
 ### 💡 About Me
 
-I'm a machine learning engineer with a background in computer science and a deep interest in large language models (LLMs) and natural language processing (NLP).
+I'm a machine learning engineer with a CS background and a deep interest in large language models (LLMs), NLP, and explainable ML systems.
 
-I've rebuilt GPT from scratch, completed Karpathy’s makemore series on character-level language models, and am currently working on Retrieval-Augmented Generation (RAG) systems using custom data.
-
-I enjoy learning deeply, thinking clearly, and building things that matter.
+I rebuild things from first principles, write clean, tested code, and enjoy contributing to tools I use.
 
 ---
 
-### 🔧 What I've Worked On
+### 🛠️ Open Source
 
-- 🧠 **Let's build GPT** – Built a full Transformer from scratch, including tokenization, attention, and autoregression  
-- 🧱 **makemore** – Character-level language models, initialization, BatchNorm, optimization techniques  
-- 📚 **Notebook Archive** – My personal training notes & tutorials in [Colab/Jupyter](#)  
-- 🔍 **RAG Prototype** (Work in progress) – Embeddings, search, and retrieval on private datasets  
+Actively contributing to [LangChain](https://github.com/langchain-ai/langchain), [Cohere](https://github.com/cohere-ai) and other LLM-related libraries.
+Focus: SDK compatibility, tool integrations, and test coverage.
+
+---
+
+### 📚 Projects & Learning
+
+* 🧠 **Let's Build GPT** – Transformer from scratch: tokenization, attention, autoregression
+* 🧱 **makemore (by Karpathy)** – Training character-level LMs, batchnorm, optimizations
+* 🔍 **RAG Prototype** – Search & retrieval over private datasets using embeddings
+* 🗒️ **ML Notebook Archive** – Personal training notes, demos, and tutorials
 
 ---
 
 ### 🧭 Interests
 
-- Large Language Models & fine-tuning  
-- Retrieval-Augmented Generation (RAG)  
-- Education tech and explainability  
-- ML engineering with real-world applications  
-- Staying close to the latest research and ideas  
+* LLMs & fine-tuning
+* Retrieval-Augmented Generation (RAG)
+* ML in education & explainability
+* Building useful, clean, maintainable ML systems
+* Staying close to real research + code
 
 ---
 
-### 📫 Connect With Me
+### 📫 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/henning-kubatzsch-632353324/)  
-- Email: `henningkb@outlook.com`  
+* [LinkedIn](https://www.linkedin.com/in/deinlink)
+* 📧 [henningkb@outlook.com](mailto:henningkb@outlook.com)
 
 ---
 
 ### ⚡ Fun Fact
 
-I love understanding complex models by working through them with pen and paper. Seriously.
+I like debugging models with pen & paper more than most people like pizza.
+
