@@ -51,6 +51,5 @@ Focus: SDK compatibility, tool integrations, and test coverage.
 
 ### ⚡ Fun Fact
 
-I like debugging models with pen & paper more than most people like pizza.
-
+I enjoy understanding machine learning from first principles — sometimes that means grabbing a pen and doing the math.
 
