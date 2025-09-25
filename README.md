@@ -54,11 +54,5 @@ Contributions and learning in the LLM ecosystem:
 
 ### ⚡ Fun Fact
 
-I’m currently building a full RAG pipeline from scratch —  
-and writing **unit tests for every module** to sharpen my Python engineering skills.
-
-
-### ⚡ Fun Fact
-
 I enjoy understanding machine learning from first principles — sometimes that means grabbing a pen and doing the math.
 
