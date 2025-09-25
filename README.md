@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Henning Kubatzsch
 
-**Machine Learning Engineer • NLP & LLMs • Education & Explainability**
+**Machine Learning Engineer • NLP & LLMs • RAG Systems**
 
 </div>
 
@@ -10,35 +10,38 @@
 
 ### 💡 About Me
 
-I'm a machine learning engineer with a CS background and a deep interest in large language models (LLMs), NLP, and explainable ML systems.
-
-I rebuild things from first principles, write clean, tested code, and enjoy contributing to tools I use.
+I'm a machine learning engineer with a CS background and a deep focus on **LLMs, NLP, and retrieval-augmented generation (RAG)**.  
+I build things from the ground up, write **tested and maintainable code**, and continuously push myself to understand systems in depth — not just use them.
 
 ---
 
 ### 🛠️ Open Source
 
-Actively contributing to [LangChain](https://github.com/langchain-ai/langchain), [Cohere](https://github.com/cohere-ai) and other LLM-related libraries.  
-Focus: SDK compatibility, tool integrations, and test coverage.
+Contributions and learning in the LLM ecosystem:  
+
+* [LangChain](https://github.com/langchain-ai/langchain) – SDK compatibility & integration tests  
+* [Cohere](https://github.com/cohere-ai) – tooling and usability improvements  
+* Other experiments around embeddings, retrievers, and model serving
 
 ---
 
-### 📚 Projects & Learning
+### 📚 Current Projects
 
+* 🔍 **Agentic RAG System** – Modular pipeline with embeddings, HNSW index, retriever, prompts, and streaming API (FastAPI)  
+  → focus on **efficiency, modularity, and test-driven development**  
 * 🧠 **Let's Build GPT** – Transformer from scratch: tokenization, attention, autoregression  
-* 🧱 **makemore (by Karpathy)** – Training character-level LMs, batchnorm, optimizations  
-* 🔍 **RAG Prototype** – Search & retrieval over private datasets using embeddings  
-* 🗒️ **ML Notebook Archive** – Personal training notes, demos, and tutorials
+* 🧱 **makemore (Karpathy)** – character-level LMs, batchnorm, optimizations  
+* 🗒️ **ML Notebook Archive** – notes, demos, experiments
 
 ---
 
 ### 🧭 Interests
 
-* LLMs & fine-tuning  
-* Retrieval-Augmented Generation (RAG)  
-* ML in education & explainability  
-* Building useful, clean, maintainable ML systems  
-* Staying close to real research + code
+* Retrieval-Augmented Generation (RAG) & evaluation  
+* Efficient local inference (CPU/MPS optimizations, Docker later)  
+* ML for education & explainability  
+* Writing clean, modular, and well-tested Python  
+* Bridging research ideas with usable systems
 
 ---
 
@@ -48,6 +51,12 @@ Focus: SDK compatibility, tool integrations, and test coverage.
 * 📧 [henningkb@outlook.com](mailto:henningkb@outlook.com)
 
 ---
+
+### ⚡ Fun Fact
+
+I’m currently building a full RAG pipeline from scratch —  
+and writing **unit tests for every module** to sharpen my Python engineering skills.
+
 
 ### ⚡ Fun Fact
 
